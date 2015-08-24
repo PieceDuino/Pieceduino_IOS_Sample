@@ -1,0 +1,6 @@
+framework module PieceduinoRemoteFramework {
+  umbrella header "PieceduinoRemoteFramework.h"
+
+  export *
+  module * { export * }
+}
